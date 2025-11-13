@@ -31,9 +31,8 @@ J’aime explorer, apprendre et donner vie à des idées ambitieuses.
 ### 🧰 Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,unity,r,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,ocaml,html,css,js,unity,r,git,github,vscode" />
 </p>
-
 ---
 
 ### 📊 Stats GitHub
