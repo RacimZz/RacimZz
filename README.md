@@ -45,14 +45,6 @@ J’aime explorer, apprendre et donner vie à des idées ambitieuses.
 
 ---
 
-### 🏆 Trophées & Activité
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RacimZz&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub trophies" />
-</p>
-
----
-
 ### ✨ Fun facts
 🧩 J’adore combiner des technos très différentes pour créer des projets uniques.  
 ☕ Le café alimente mes lignes de code.  
