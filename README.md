@@ -66,6 +66,7 @@
 <h3 align="center" style="color:#f1c40f;">📊 Stats GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RacimZz&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RacimZz&show_icons=true&theme=tokyonight&hide=prs,contribs" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacimZz&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
+
