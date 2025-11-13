@@ -1,59 +1,72 @@
-<h1 align="center">👋 Hey, moi c’est Racim !</h1>
+<h1 align="center">
+  <span style="color:#00bfff;">Hey, moi c’est <strong>Racim</strong></span>
+</h1>
 
-<p align="center">
-  💻 Développeur polyvalent • 🚀 Passionné par la création de projets tech • 🌌 Entre IA, VR et Web
+<p align="center" style="font-size: 16px;">
+  <span style="color:#f1c40f;">Développeur polyvalent</span> • 
+  <span style="color:#9b59b6;">Passionné par la création de projets tech</span> • 
+  <span style="color:#2ecc71;">De la VR à l’IA</span>
 </p>
 
 ---
 
-### 🧭 À propos de moi
-Je suis un développeur curieux et créatif, passionné par la diversité des technologies :  
-de la **réalité virtuelle** à l’**intelligence artificielle**, en passant par le **web design** et la **programmation bas niveau**.  
-J’aime explorer, apprendre et donner vie à des idées ambitieuses.
+<h3 align="center" style="color:#e67e22;">✨ Mes projets phares ✨</h3>
+
+<table align="center">
+  <tr>
+    <th>Projet</th>
+    <th>Description</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RacimZz/Mon_Portfolio"><b>Mon_Portfolio</b></a></td>
+    <td>Mon site personnel présentant mes réalisations et compétences.</td>
+    <td><b><span style="color:#e34c26;">HTML</span>, <span style="color:#2965f1;">CSS</span></b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RacimZz/Rhino-VR"><b>Rhino-VR</b></a></td>
+    <td>Expériences 3D immersives basées sur Unity et le plugin Rhino VR.</td>
+    <td><b><span style="color:#6c7eb7;">Unity</span>, <span style="color:#178600;">C#</span></b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RacimZz/FisherEM_ML"><b>FisherEM_ML</b></a></td>
+    <td>Classification non supervisée de spectres galactiques.</td>
+    <td><b><span style="color:#198ce7;">R</span>, <span style="color:#f39c12;">Machine Learning</span></b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RacimZz/Chatbot"><b>Chatbot</b></a></td>
+    <td>Interface web (HTML/CSS/JS) avec logique principale et moteur en <b>Python</b>.</td>
+    <td><b><span style="color:#3572A5;">Python</span>, <span style="color:#e34c26;">HTML</span>, <span style="color:#f1e05a;">JS</span></b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RacimZz/Akinator_IA"><b>Akinator_IA</b></a></td>
+    <td>Recréation d’un Akinator simplifié en Python utilisant un arbre de décision.</td>
+    <td><b><span style="color:#3572A5;">Python</span></b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RacimZz/CNF_SAT"><b>CNF_SAT</b></a></td>
+    <td>Solveur logique en C pour tester la satisfiabilité de formules booléennes.</td>
+    <td><b><span style="color:#555555;">C</span>, <span style="color:#3572A5;">Python</span></b></td>
+  </tr>
+</table>
+
+<p align="center" style="font-size: 16px;">
+  ➡️ <a href="https://github.com/RacimZz?tab=repositories" style="color:#00bfff;"><b>Voir tous mes projets</b></a>
+</p>
 
 ---
 
-### 🚀 Mes projets phares
-
-| Projet | Description | Tech |
-|:-------|:-------------|:------|
-| [🌐 Mon_Portfolio](https://github.com/RacimZz/Mon_Portfolio) | Mon site personnel présentant mes réalisations et compétences. | HTML, CSS |
-| [🕶 Rhino-VR](https://github.com/RacimZz/Rhino-VR) | Expériences 3D immersives basées sur Unity et le plugin Rhino VR. | Unity, C# |
-| [🔬 FisherEM_ML](https://github.com/RacimZz/FisherEM_ML) | Classification non supervisée de spectres galactiques. | R, Machine Learning |
-| [💬 Chatbot](https://github.com/RacimZz/Chatbot) | Un chatbot simple en HTML/JS avec logique de réponses. | HTML, JavaScript |
-| [🧠 Akinator_IA](https://github.com/RacimZz/Akinator_IA) | Recréation d’un Akinator simplifié en Python utilisant un arbre de décision. | Python |
-| [⚙️ CNF_SAT](https://github.com/RacimZz/CNF_SAT) | Solveur logique en C pour tester la satisfiabilité de formules booléennes. | C |
-
-➡️ [Voir tous mes projets](https://github.com/RacimZz?tab=repositories)
-
----
-
-### 🧰 Stack technique
+<h3 align="center" style="color:#1abc9c;">💡 Stack technique</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,ocaml,html,css,js,unity,r,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,ocaml,html,css,js,bash,linux,unity,r,git,github" />
 </p>
+
 ---
 
-### 📊 Stats GitHub
+<h3 align="center" style="color:#f1c40f;">📊 Stats GitHub</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RacimZz&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacimZz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacimZz&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
-
----
-
-### ✨ Fun facts
-🧩 J’adore combiner des technos très différentes pour créer des projets uniques.  
-☕ Le café alimente mes lignes de code.  
-🌌 “Le meilleur code, c’est celui qu’on prend plaisir à écrire.”
-
----
-
-<p align="center">
-  <a href="https://github.com/RacimZz?tab=followers">
-    <img src="https://img.shields.io/github/followers/RacimZz?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
