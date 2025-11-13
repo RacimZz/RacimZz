@@ -9,44 +9,44 @@
 </p>
 
 ---
-
 <h3 align="center" style="color:#e67e22;">✨ Mes projets phares ✨</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th>Projet</th>
-    <th>Description</th>
-    <th>Technologies</th>
+    <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
+      <a href="https://github.com/RacimZz/Mon_Portfolio"><b style="color:#3498db;">Mon_Portfolio</b></a><br>
+      <i>Mon site personnel présentant mes réalisations et compétences.</i><br>
+      <b style="color:#e34c26;">HTML</b> • <b style="color:#2965f1;">CSS</b>
+    </td>
+    <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
+      <a href="https://github.com/RacimZz/Rhino-VR"><b style="color:#9b59b6;">Rhino-VR</b></a><br>
+      <i>Expériences 3D immersives basées sur Unity et le plugin Rhino VR.</i><br>
+      <b style="color:#6c7eb7;">Unity</b> • <b style="color:#178600;">C#</b>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/RacimZz/Mon_Portfolio"><b>Mon_Portfolio</b></a></td>
-    <td>Mon site personnel présentant mes réalisations et compétences.</td>
-    <td><b><span style="color:#e34c26;">HTML</span>, <span style="color:#2965f1;">CSS</span></b></td>
+    <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
+      <a href="https://github.com/RacimZz/FisherEM_ML"><b style="color:#27ae60;">FisherEM_ML</b></a><br>
+      <i>Classification non supervisée de spectres galactiques.</i><br>
+      <b style="color:#198ce7;">R</b> • <b style="color:#f39c12;">Machine Learning</b>
+    </td>
+    <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
+      <a href="https://github.com/RacimZz/Chatbot"><b style="color:#f39c12;">Chatbot</b></a><br>
+      <i>Interface web (HTML/CSS/JS) avec logique principale et moteur en <b>Python</b>.</i><br>
+      <b style="color:#3572A5;">Python</b> • <b style="color:#e34c26;">HTML</b> • <b style="color:#f1e05a;">JS</b>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/RacimZz/Rhino-VR"><b>Rhino-VR</b></a></td>
-    <td>Expériences 3D immersives basées sur Unity et le plugin Rhino VR.</td>
-    <td><b><span style="color:#6c7eb7;">Unity</span>, <span style="color:#178600;">C#</span></b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/RacimZz/FisherEM_ML"><b>FisherEM_ML</b></a></td>
-    <td>Classification non supervisée de spectres galactiques.</td>
-    <td><b><span style="color:#198ce7;">R</span>, <span style="color:#f39c12;">Machine Learning</span></b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/RacimZz/Chatbot"><b>Chatbot</b></a></td>
-    <td>Interface web (HTML/CSS/JS) avec logique principale et moteur en <b>Python</b>.</td>
-    <td><b><span style="color:#3572A5;">Python</span>, <span style="color:#e34c26;">HTML</span>, <span style="color:#f1e05a;">JS</span></b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/RacimZz/Akinator_IA"><b>Akinator_IA</b></a></td>
-    <td>Recréation d’un Akinator simplifié en Python utilisant un arbre de décision.</td>
-    <td><b><span style="color:#3572A5;">Python</span></b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/RacimZz/CNF_SAT"><b>CNF_SAT</b></a></td>
-    <td>Solveur logique en C pour tester la satisfiabilité de formules booléennes.</td>
-    <td><b><span style="color:#555555;">C</span>, <span style="color:#3572A5;">Python</span></b></td>
+    <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
+      <a href="https://github.com/RacimZz/Akinator_IA"><b style="color:#16a085;">Akinator_IA</b></a><br>
+      <i>Recréation d’un Akinator simplifié en Python utilisant un arbre de décision.</i><br>
+      <b style="color:#3572A5;">Python</b>
+    </td>
+    <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
+      <a href="https://github.com/RacimZz/Gemclus_DeepLearning"><b style="color:#c0392b;">GemClus_DeepLearning</b></a><br>
+      <i>Outil de clustering basé sur des techniques de deep learning pour l’analyse non supervisée.</i><br>
+      <b style="color:#3572A5;">Python</b> • <b style="color:#f39c12;">Deep Learning</b>
+    </td>
   </tr>
 </table>
 
@@ -54,7 +54,6 @@
   ➡️ <a href="https://github.com/RacimZz?tab=repositories" style="color:#00bfff;"><b>Voir tous mes projets</b></a>
 </p>
 
----
 
 <h3 align="center" style="color:#1abc9c;">💡 Stack technique</h3>
 
