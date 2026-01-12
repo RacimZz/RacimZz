@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#00bfff;">Hey, moi c’est <strong>Racim</strong></span>
+  <span style="color:#00bfff;">Hey, moi c’est <strong>Racim</strong> !</span>
 </h1>
 
 <p align="center" style="font-size: 16px;">
