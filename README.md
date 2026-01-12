@@ -57,7 +57,7 @@
     <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
       <a href="https://github.com/RacimZz/CNF_SAT"><b style="color:#c0392b;">Tetravex-SAT</b></a><br>
       <i>application permettant de résoudre automatiquement des grilles du jeu Tetravex en traduisant le problème sous forme logique (SAT), puis en l'interprétant via un solveur SAT.</i><br>
-      <b style="color:#3572A5;">C</b> • <b style="color:#f39c12;">Python</b>
+      <b style="color:#3572A5;">C</b> • <b style="color:#f39c12;">Ocaml</b> • <b style="color:#f39c12;">Python</b>
     </td>
   </tr>
 </table>
