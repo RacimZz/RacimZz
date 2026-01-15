@@ -14,7 +14,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
-      <a href="https://github.com/RacimZz/Mon_Portfolio"><b style="color:#3498db;">Mon_Portfolio</b></a><br>
+      <a href="https://github.com/RacimZz/Portfolio"><b style="color:#3498db;">Portfolio</b></a><br>
       <i>Mon site personnel présentant mes réalisations et compétences.</i><br>
       <b style="color:#e34c26;">HTML</b> • <b style="color:#2965f1;">CSS</b>
     </td>
