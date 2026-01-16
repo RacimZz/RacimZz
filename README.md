@@ -70,7 +70,7 @@
 <h3 align="center" style="color:#1abc9c;">💡 Stack technique</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,ocaml,html,css,js,bash,linux,unity,r,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sqlite,cs,go,ocaml,html,css,js,bash,linux,unity,r,git" />
 </p>
 
 ---
