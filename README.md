@@ -5,7 +5,7 @@
 <p align="center" style="font-size: 16px;">
   <span style="color:#f1c40f;">Développeur polyvalent</span> • 
   <span style="color:#9b59b6;">Passionné par la création de projets tech</span> • 
-  <span style="color:#2ecc71;">De la VR à l’IA</span>
+  <span style="color:#2ecc71;">De la VR à l’IA en passant par la cyber</span>
 </p>
 <h3 align="center" style="color:#e67e22;"><i> <a href="https://racim-zenati.netlify.app"><b style="color:#3498db;">Cliquez ici pour voir mon portfolio</b></a> </i><br></h3>
 
