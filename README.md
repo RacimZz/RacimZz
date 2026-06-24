@@ -10,7 +10,7 @@
 <h3 align="center" style="color:#e67e22;"><i> <a href="https://racim-zenati.netlify.app"><b style="color:#3498db;">Cliquez ici pour voir mon portfolio</b></a> </i><br></h3>
 
 ---
-<h3 align="center" style="color:#e67e22;">✨ Mes projets phares ✨</h3>
+<h3 align="center" style="color:#e67e22;"> Mes projets phares </h3>
 
 <table align="center" width="100%">
   <tr>
