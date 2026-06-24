@@ -7,7 +7,7 @@
   <span style="color:#9b59b6;">Passionate about building tech projects</span> • 
   <span style="color:#2ecc71;">From VR to AI through cybersecurity</span>
 </p>
-<h3 align="center" style="color:#e67e22;"><i> <a href="https://racim-zenati.netlify.app"><b style="color:#3498db;">Click here to view my portfolio</b></a> </i><br></h3>
+<h3 align="center" style="color:#e67e22;"><i> <a href="https://racim-zenati.vercel.app"><b style="color:#3498db;">Click here to view my portfolio</b></a> </i><br></h3>
 
 ---
 <h3 align="center" style="color:#e67e22;"> Featured projects </h3>
