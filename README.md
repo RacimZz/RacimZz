@@ -64,15 +64,15 @@
 </table>
 
 <p align="center" style="font-size: 16px;">
-  ➡️ <a href="https://github.com/RacimZz?tab=repositories" style="color:#00bfff;"><b>Voir tous mes projets</b></a>
+   <a href="https://github.com/RacimZz?tab=repositories" style="color:#00bfff;"><b>Voir tous mes projets</b></a>
 </p>
 
 
-<h3 align="center" style="color:#1abc9c;">💡 Stack technique</h3>
+<h3 align="center" style="color:#1abc9c;">Stack technique</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sqlite,cs,go,ocaml,html,css,js,bash,linux,unity,r,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,sqlite,cs,go,ocaml,html,css,js,bash,linux,unity,r,git" />
+<p align = "center"><img src="https://skillicons.dev/icons?i=qt,latex" /> </p>
+
 
 ---
 
