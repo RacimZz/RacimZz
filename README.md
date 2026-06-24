@@ -33,15 +33,15 @@
     </td>
     <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
       <a href="https://github.com/RacimZz/Chatbot"><b style="color:#f39c12;">Chatbot</b></a><br>
-      <i>Web interface (HTML/CSS/JS) with core logic and engine in <b>Python</b>.</i><br>
+      <i>Web interface (HTML/CSS/JS) with core logic and engine.</i><br>
       <b style="color:#3572A5;">Python</b> • <b style="color:#e34c26;">HTML</b> • <b style="color:#f1e05a;">JS</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
-      <a href="https://github.com/RacimZz/Akinator_IA"><b style="color:#16a085;">Akinator_IA</b></a><br>
-      <i>A simplified Akinator-like game built in Python using a decision tree.</i><br>
-      <b style="color:#3572A5;">Python</b>
+      <a href="https://github.com/RacimZz/pswrd_spray"><b style="color:#16a085;">pswrd_spray</b></a><br>
+      <i>Password spraying detection system using ML pipelines to identify abnormal authentication patterns.</i><br>
+      <b style="color:#3572A5;">Python</b> • <b style="color:#f39c12;">Machine Learning</b>
     </td>
     <td align="center" width="45%" bgcolor="#f9f9f9" style="border-radius:10px; padding:15px; border:1px solid #ddd;">
       <a href="https://github.com/RacimZz/Gemclus_DeepLearning"><b style="color:#c0392b;">GemClus_DeepLearning</b></a><br>
