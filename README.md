@@ -71,7 +71,7 @@
 <h3 align="center" style="color:#1abc9c;">Tech stack</h3>
 
 <p align = "center"><img src="https://skillicons.dev/icons?i=python,c,cpp,sqlite,cs,go,ocaml,html,css,js,bash,linux,unity,r,git" /></p>
-<p align = "center"><img src="https://skillicons.dev/icons?i=qt,latex" /> </p>
+<p align = "center"><img src="https://skillicons.dev/icons?i=qt,latex,kotlin" /> </p>
 
 
 ---
